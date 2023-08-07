@@ -1,6 +1,6 @@
 # BLOG APPLICATION
 
-This is the repository for a Blog Application developed by [Sankeerth-g7](https://github.com/Sankeerth-g7). The application provides a platform for users to create and publish their own blog posts. It offers essential features such as user authentication, blog creation, editing, deletion, and a user-friendly interface for readers to browse and interact with the published content.
+This is the repository for a Blog Application developed by Sai Charan. The application provides a platform for users to create and publish their own blog posts. It offers essential features such as user authentication, blog creation, editing, deletion, and a user-friendly interface for readers to browse and interact with the published content.
 
 
 ## Features
@@ -95,7 +95,7 @@ To set up the Blog Application locally, follow these steps:
 
 ## Contributing
 
-Contributions to the Blog Application are welcome! If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Sankeerth-g7/BLOG-APPLICATION).
+Contributions to the Blog Application are welcome! If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
 
 When contributing, please ensure to follow the existing code style, write clear commit messages, and provide detailed pull request descriptions when submitting code changes.
 
